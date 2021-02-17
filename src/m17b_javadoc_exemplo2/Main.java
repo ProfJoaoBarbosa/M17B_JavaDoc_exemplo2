@@ -19,6 +19,7 @@ public class Main {
     /**
      * Não são usados parâmetros em main().
      * @param args não se aplica.
+     * 
      */
     public static void main(String[] args) {
         // Comentário de linha, não é incluído no JavaDoc.

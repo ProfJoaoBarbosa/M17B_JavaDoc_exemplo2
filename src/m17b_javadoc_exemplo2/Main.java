@@ -23,7 +23,8 @@ public class Main {
     public static void main(String[] args) {
         // Comentário de linha, não é incluído no JavaDoc.
         Livro l = new Livro("Clorofila", "Rui Reininho", 213);
-        String s;
+        String s; 
+        
         int c;
         System.out.println(l);
         s = l.resumo();

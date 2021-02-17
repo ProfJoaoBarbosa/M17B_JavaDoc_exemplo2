@@ -17,6 +17,7 @@ public class Main {
     }
 
     /**
+     * 
      * Não são usados parâmetros em main().
      * @param args não se aplica.
      * 
